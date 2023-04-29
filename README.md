@@ -1,7 +1,6 @@
 # Built-in Filecoin actors
 
-This repo contains the code for the on-chain built-in actors that power the
-Filecoin network starting from network version 16.
+This repo contains the code for the on-chain built-in actors that power the Filecoin network starting from network version 16.
 
 These actors are written in Rust and are designed to operate inside the
 [Filecoin Virtual Machine](https://github.com/filecoin-project/FIPs/blob/master/FIPS/fip-0030.md).
