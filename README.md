@@ -15,7 +15,6 @@ This codebase is on track to be canonicalized in [FIP-0031](https://github.com/f
 As a result, this actor implementation will be the only one recognized by the network.
 
 ## Pre-FVM actors
-
 Actors for the following network versions are provided as well:
 
 - nv14 actors are provided to facilitate testing.
